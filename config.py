@@ -1,0 +1,7 @@
+customhost = "employe.cbjuepllq0dw.ap-south-1.rds.amazonaws.com"
+customuser = "kunal"
+custompass = "intellipaat123"
+customdb = "employe"
+custombucket = "addemmp"
+customregion = "us-east-2"
+customtable = "employe_image_table"
